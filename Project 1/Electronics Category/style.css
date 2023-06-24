@@ -1,0 +1,274 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --header-color: #a5d7e8;
+  --site-background: ghostwhite;
+  --button-color: #19376d;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter";
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+/*        NAV SECTION */
+
+nav {
+  height: 10vh;
+  background-color: var(--site-background);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5%;
+  padding: 10px;
+}
+
+.logo {
+  width: 65px;
+}
+
+.sedc-logo {
+  width: 100%;
+}
+
+.categories-and-deals-list {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  font-size: 18px;
+}
+
+.sub-category {
+  list-style: none;
+  display: none;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.search-bar {
+  width: 350px;
+  border-radius: 20px;
+  padding: 8px;
+  font-size: 16px;
+  outline: none;
+  border: 1px solid gray;
+  transition: 0.2s;
+}
+.search-bar:focus {
+  border: 1px solid var(--header-color);
+}
+.search-button {
+  transition: 0.5s;
+}
+.search-button:hover {
+  transform: scale(125%);
+}
+
+.account-and-cart {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.account {
+  display: flex;
+  align-items: center;
+}
+
+.account-options {
+  border: 1px solid var(--header-color);
+  padding: 10px 15px;
+}
+.sign-up {
+  transition: 0.3s;
+  border-right: none;
+  border-top-left-radius: 12px;
+  border-bottom-left-radius: 12px;
+}
+.sign-up:hover {
+  color: var(--header-color);
+}
+
+.log-in {
+  transition: 0.3s;
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
+.log-in:hover {
+  color: var(--header-color);
+}
+
+.cart {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 17px;
+}
+.cart:hover {
+  color: gray;
+}
+
+.category-h1 {
+  text-align: center;
+  padding: 30px 0px 30px 0px;
+}
+/* PRODUCT CARD SECTION */
+.card-section {
+  display: grid;
+  grid-gap: 40px 40px;
+  grid-template-columns: repeat(auto-fill, 299px);
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  width: 300px;
+  min-height: 200px;
+  padding-bottom: 10px;
+  gap: 10px;
+  height: auto;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.19), 0 3px 6px rgba(0, 0, 0, 0.108);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.product-card-details {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  gap: 15px;
+}
+
+.product-card-details > p {
+  font-size: 1.2em;
+}
+
+.product-card-header {
+  min-width: 320px;
+  min-height: 320px;
+}
+
+.product-card-header > img {
+  max-width: 320px;
+  max-height: 320px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.category:hover .category-div,
+.category:focus .category-div {
+  transform: scale(1.2);
+}
+
+.category:hover .category-div:before,
+.category:focus .category-div:before {
+  display: block;
+}
+
+.category:hover a,
+.category:focus a {
+  display: block;
+}
+
+.category-div:before {
+  content: "";
+  display: none;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(22, 44, 66, 0.75);
+}
+
+.category {
+  min-width: 200px;
+  margin: 20px;
+  height: 300px;
+  border-radius: 5%;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.category-div {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  transition: all 0.5s;
+}
+
+.category-link {
+  font-size: 2rem;
+  font-weight: 600;
+  color: white;
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  height: 50px;
+}
+
+.category-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 3%;
+  height: 3rem;
+  cursor: pointer;
+  color: white;
+  background-color: black;
+  border-top: 1px solid rgb(154, 150, 150);
+  border-bottom: 1px solid rgb(154, 150, 150);
+  transition: 0.3s;
+  margin-bottom: 1rem;
+}
+.clickedButton {
+  background-color: rgba(153, 150, 150, 0.584);
+  color: white;
+  border-radius: 6px;
+}
+
+.category-nav > h3 {
+  padding: 3px 15px 3px 15px;
+  transition: 0.2s;
+}
+
+.category-nav :hover {
+  color: white;
+  background-color: #420080;
+  border-radius: 6px;
+  transition: 0.2s;
+}
+
+.border {
+  border-radius: 10px;
+  text-align: center;
+  width: 13%;
+}

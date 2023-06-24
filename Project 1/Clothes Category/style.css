@@ -295,11 +295,9 @@ ul li:hover ul.dropdown {
   text-align: center;
   width: 13%;
 }
-
-
 .cartBtn {
   border: none;
-  border-radius: 30px;
+  border-radius: 15px;
   font-size: 15px;
   height: 45px;
   outline: none;
@@ -310,5 +308,7 @@ ul li:hover ul.dropdown {
 }
 
 .cartBtn:hover {
+  width: 50%;
   box-shadow: 1px 5px 7px 1px rgba(0, 0, 0, 0.4);
+  margin: 0 25%;
 }

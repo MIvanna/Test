@@ -62,7 +62,7 @@ const showCategories = () => {
   550H872c4.4 0 8-3.6 8-8v-60c0-4.4-3.6-8-8-8z" ></path></svg>
   <li class="dropdown-li-phone border-dropdown"><a href="../clothes/index.html">Clothes</a></li>
   <li class="dropdown-li-phone border-dropdown"><a href="../shoes/index.html">Shoes</a></li>
-  <li class="dropdown-li-phone border-dropdown"><a href="./index.html">Jewelery</a></li>
+  <li class="dropdown-li-phone border-dropdown"><a href="./index.html">Jewellery</a></li>
   <li class="dropdown-li-phone border-dropdown"><a href="../electronics/index.html">Electronics</a></li>
   <li class="dropdown-li-phone border-dropdown"><a href="../music/index.html">Music</a></li>
   <li class="dropdown-li-phone"><a href="../furniture/index.html">Furniture</a></li>`;

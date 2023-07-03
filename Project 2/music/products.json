@@ -1,0 +1,996 @@
+[
+  {
+    "title": "Gibson Les Paul Standard",
+    "description": "The Gibson Les Paul Standard is a legendary electric guitar known for its rich tone and iconic design.",
+    "price": 2499.99,
+    "image": "./assets/LPS6F002HNH1_front.png",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Fender Stratocaster",
+    "description": "The Fender Stratocaster is a versatile electric guitar favored by many musicians for its smooth playability and classic sound.",
+    "price": 1999.99,
+    "image": "./assets/500x500.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Taylor 814ce",
+    "description": "The Taylor 814ce is an acoustic-electric guitar known for its exceptional sound quality and playability.",
+    "price": 2999.99,
+    "image-url": "https://example.com/taylor-814ce.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Martin D-28",
+    "description": "The Martin D-28 is a classic acoustic guitar renowned for its rich and full-bodied tone.",
+    "price": 2499.99,
+    "image-url": "https://example.com/martin-d28.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gretsch G2622 Streamliner",
+    "description": "The Gretsch G2622 Streamliner is an affordable semi-hollow body electric guitar with a vintage-inspired design.",
+    "price": 699.99,
+    "image-url": "https://example.com/gretsch-g2622.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Ibanez RG550",
+    "description": "The Ibanez RG550 is a high-performance electric guitar known for its fast neck and versatile sound.",
+    "price": 1199.99,
+    "image-url": "https://example.com/ibanez-rg550.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "PRS SE Custom 24",
+    "description": "The PRS SE Custom 24 is a popular electric guitar model that offers premium features at an affordable price.",
+    "price": 899.99,
+    "image-url": "https://example.com/prs-se-custom24.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gibson J-45",
+    "description": "The Gibson J-45 is a classic acoustic guitar loved for its warm and balanced tone, perfect for both strumming and fingerstyle playing.",
+    "price": 2299.99,
+    "image-url": "https://example.com/gibson-j45.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Fender Telecaster",
+    "description": "The Fender Telecaster is a legendary electric guitar known for its distinctive twangy tone and simplicity.",
+    "price": 1499.99,
+    "image-url": "https://example.com/fender-telecaster.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Taylor 214ce",
+    "description": "The Taylor 214ce is a popular acoustic-electric guitar with a solid Sitka spruce top and versatile electronics.",
+    "price": 1199.99,
+    "image-url": "https://example.com/taylor-214ce.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gibson SG Standard",
+    "description": "The Gibson SG Standard is a classic electric guitar with a distinctive double-cutaway design and powerful tone.",
+    "price": 1799.99,
+    "image-url": "https://example.com/gibson-sg.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Fender Jazzmaster",
+    "description": "The Fender Jazzmaster is a versatile electric guitar known for its smooth playing feel and unique tone.",
+    "price": 1599.99,
+    "image-url": "https://example.com/fender-jazzmaster.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gibson Hummingbird",
+    "description": "The Gibson Hummingbird is an iconic acoustic guitar loved for its stunning aesthetics and warm, balanced tone.",
+    "price": 2799.99,
+    "image-url": "https://example.com/gibson-hummingbird.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Epiphone Les Paul Standard PlusTop Pro",
+    "description": "The Epiphone Les Paul Standard PlusTop Pro is a high-quality yet affordable electric guitar with a classic Les Paul design.",
+    "price": 549.99,
+    "image-url": "https://example.com/epiphone-lespaul.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Martin HD-28",
+    "description": "The Martin HD-28 is a premium acoustic guitar with a beautiful rosewood body and exceptional sound projection.",
+    "price": 3299.99,
+    "image-url": "https://example.com/martin-hd28.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gretsch G5420T Electromatic",
+    "description": "The Gretsch G5420T Electromatic is a stylish hollow body electric guitar that delivers vintage-inspired tones.",
+    "price": 899.99,
+    "image-url": "https://example.com/gretsch-g5420t.jpg",
+    "category": "guitar",
+    "subCategory": "music-instruments"
+  },
+
+  {
+    "title": "Fender Precision Bass",
+    "description": "The Fender Precision Bass is a classic electric bass known for its iconic tone and playability.",
+    "price": 1499.99,
+    "image-url": "https://example.com/fender_precision_bass.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Music Man StingRay",
+    "description": "The Music Man StingRay bass is a high-quality instrument that delivers a powerful sound and excellent playability.",
+    "price": 1899.99,
+    "image-url": "https://example.com/music_man_stingray.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gibson Thunderbird",
+    "description": "The Gibson Thunderbird bass is a versatile instrument with a distinct body shape and rich, warm tones.",
+    "price": 2299.99,
+    "image-url": "https://example.com/gibson_thunderbird.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Ibanez SR500",
+    "description": "The Ibanez SR500 bass offers a sleek design, comfortable playability, and a wide range of tones.",
+    "price": 899.99,
+    "image-url": "https://example.com/ibanez_sr500.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Rickenbacker 4003",
+    "description": "The Rickenbacker 4003 bass is an iconic instrument known for its distinctive tone and unique design.",
+    "price": 2799.99,
+    "image-url": "https://example.com/rickenbacker_4003.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Gretsch G2220 Junior Jet Bass II",
+    "description": "The Gretsch G2220 Junior Jet Bass II is a compact bass guitar that delivers a punchy, focused sound.",
+    "price": 449.99,
+    "image-url": "https://example.com/gretsch_g2220.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Yamaha TRBX304",
+    "description": "The Yamaha TRBX304 bass is a reliable and affordable instrument that offers great playability and versatile tone options.",
+    "price": 549.99,
+    "image-url": "https://example.com/yamaha_trbx304.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Schecter Stiletto Custom-4",
+    "description": "The Schecter Stiletto Custom-4 bass features a sleek design, high-quality construction, and powerful pickups for a versatile sound.",
+    "price": 899.99,
+    "image-url": "https://example.com/schecter_stiletto_custom-4.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Fender Jazz Bass",
+    "description": "The Fender Jazz Bass is a classic instrument loved by bassists for its smooth playability and rich, versatile tone.",
+    "price": 1599.99,
+    "image-url": "https://example.com/fender_jazz_bass.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Epiphone Thunderbird Classic-IV",
+    "description": "The Epiphone Thunderbird Classic-IV bass is a tribute to the original Gibson Thunderbird, offering vintage style and powerful tones.",
+    "price": 649.99,
+    "image-url": "https://example.com/epiphone_thunderbird_classic-iv.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Squier Vintage Modified Precision Bass",
+    "description": "The Squier Vintage Modified Precision Bass combines affordability with classic Precision Bass design and great tone.",
+    "price": 349.99,
+    "image-url": "https://example.com/squier_vintage_modified_precision_bass.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Warwick Corvette Standard",
+    "description": "The Warwick Corvette Standard bass is a high-end instrument with exceptional build quality, tone, and playability.",
+    "price": 2999.99,
+    "image-url": "https://example.com/warwick_corvette_standard.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "ESP LTD B-205SM",
+    "description": "The ESP LTD B-205SM bass offers a beautiful spalted maple top, powerful pickups, and a slim, comfortable neck.",
+    "price": 699.99,
+    "image-url": "https://example.com/esp_ltd_b-205sm.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "G&L L-2000",
+    "description": "The G&L L-2000 bass is a versatile instrument with dual humbucker pickups, active electronics, and excellent craftsmanship.",
+    "price": 1699.99,
+    "image-url": "https://example.com/gl_l-2000.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Ernie Ball Music Man Bongo",
+    "description": "The Ernie Ball Music Man Bongo bass features a unique design, high-output pickups, and a wide range of tonal options.",
+    "price": 2499.99,
+    "image-url": "https://example.com/ernie_ball_music_man_bongo.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Jackson JS Series Concert Bass",
+    "description": "The Jackson JS Series Concert Bass delivers a powerful sound, sleek design, and excellent playability at an affordable price.",
+    "price": 449.99,
+    "image-url": "https://example.com/jackson_js_series_concert_bass.jpg",
+    "category": "bass-guitar",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Korg LP-380 Digital Piano",
+    "description": "The Korg LP-380 is a stylish and compact digital piano with a rich, authentic sound. It features 88 weighted keys and a selection of high-quality piano sounds.",
+    "price": 1299.99,
+    "image-url": "https://example.com/korg-lp380.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Yamaha P-125 Digital Piano",
+    "description": "The Yamaha P-125 is a versatile digital piano suitable for both beginners and experienced players. It offers realistic piano sound and touch, along with a variety of features for practicing and performing.",
+    "price": 699.99,
+    "image-url": "https://example.com/yamaha-p125.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Roland FP-30 Digital Piano",
+    "description": "The Roland FP-30 is a portable digital piano that delivers authentic piano performance in a compact design. It features Roland's renowned SuperNATURAL piano sound and a responsive keyboard.",
+    "price": 799.99,
+    "image-url": "https://example.com/roland-fp30.jpg",
+    "category": "keys"
+  },
+  {
+    "title": "Korg SV-2 Stage Vintage Piano",
+    "description": "The Korg SV-2 is a stage piano that captures the essence of vintage electric pianos and iconic keyboard sounds. It offers a wide range of sounds and intuitive controls for live performance.",
+    "price": 1899.99,
+    "image-url": "https://example.com/korg-sv2.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Yamaha CP88 Stage Piano",
+    "description": "The Yamaha CP88 is a professional stage piano that combines authentic acoustic and electric piano sounds with a intuitive interface. It features a graded hammer action keyboard and extensive sound customization options.",
+    "price": 2499.99,
+    "image-url": "https://example.com/yamaha-cp88.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Roland RD-2000 Stage Piano",
+    "description": "The Roland RD-2000 is a flagship stage piano that offers a blend of acoustic and electronic piano sounds. It features a PHA-50 keyboard with hybrid wood and molded construction for an authentic playing experience.",
+    "price": 2699.99,
+    "image-url": "https://example.com/roland-rd2000.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Korg Kronos 2 Music Workstation",
+    "description": "The Korg Kronos 2 is a powerful music workstation that combines multiple sound engines, intuitive touchscreen control, and a vast array of features for professional music production and performance.",
+    "price": 2999.99,
+    "image-url": "https://example.com/korg-kronos2.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Yamaha Montage 8 Music Synthesizer",
+    "description": "The Yamaha Montage 8 is a flagship music synthesizer that offers unprecedented sound creation capabilities. It features a touch-screen interface, powerful synthesis engine, and extensive control options.",
+    "price": 3999.99,
+    "image-url": "https://example.com/yamaha-montage8.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Roland JUNO-DS76 Synthesizer",
+    "description": "The Roland JUNO-DS76 is a versatile synthesizer with a wide range of sounds suitable for live performance and music production. It features an intuitive interface and a lightweight, portable design.",
+    "price": 999.99,
+    "image-url": "https://example.com/roland-junods76.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Korg Minilogue XD Analog Synthesizer",
+    "description": "The Korg Minilogue XD is a compact analog synthesizer that offers a wide range of rich, vintage sounds. It features a polyphonic step sequencer and customizable digital effects.",
+    "price": 649.99,
+    "image-url": "https://example.com/korg-miniloguexd.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Yamaha Reface CS Mobile Mini Keyboard",
+    "description": "The Yamaha Reface CS is a mobile mini keyboard with a retro design and versatile sound engine. It offers a variety of sound-shaping controls and can run on battery power.",
+    "price": 299.99,
+    "image-url": "https://example.com/yamaha-refacecs.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Roland JD-Xi Interactive Analog/Digital Crossover Synthesizer",
+    "description": "The Roland JD-Xi is an interactive synthesizer that combines analog and digital synthesis in a compact design. It offers a wide range of sounds and built-in drum patterns.",
+    "price": 499.99,
+    "image-url": "https://example.com/roland-jdxi.jpg",
+    "category": "keys",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Acoustic Drum Set",
+    "description": "Professional 5-piece drum set with high-quality shells and hardware.",
+    "price": 799.99,
+    "image_url": "https://example.com/acoustic_drum_set.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Electronic Drum Kit",
+    "description": "Advanced electronic drum kit with realistic sounds and customizable features.",
+    "price": 1199.99,
+    "image_url": "https://example.com/electronic_drum_kit.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Snare Drum",
+    "description": "Classic snare drum with a responsive and versatile sound.",
+    "price": 199.99,
+    "image_url": "https://example.com/snare_drum.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Cymbal Pack",
+    "description": "Set of high-quality cymbals including crash, ride, and hi-hat cymbals.",
+    "price": 349.99,
+    "image_url": "https://example.com/cymbal_pack.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Drum Throne",
+    "description": "Comfortable and adjustable drum throne for extended playing sessions.",
+    "price": 99.99,
+    "image_url": "https://example.com/drum_throne.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Bass Drum Pedal",
+    "description": "High-quality bass drum pedal for smooth and precise foot control.",
+    "price": 79.99,
+    "image_url": "https://example.com/bass_drum_pedal.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Drumsticks",
+    "description": "Pair of drumsticks made from durable hickory wood.",
+    "price": 9.99,
+    "image_url": "https://example.com/drumsticks.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Drum Practice Pad",
+    "description": "Silent drum practice pad for developing drumming skills.",
+    "price": 29.99,
+    "image_url": "https://example.com/drum_practice_pad.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Drum Hardware Pack",
+    "description": "Complete set of drum hardware including stands, clamps, and mounts.",
+    "price": 299.99,
+    "image_url": "https://example.com/drum_hardware_pack.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Drum Rug",
+    "description": "Non-slip drum rug to keep your drum set in place during performances.",
+    "price": 49.99,
+    "image_url": "https://example.com/drum_rug.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Bongo Drums",
+    "description": "Pair of bongo drums with authentic tones and attractive finish.",
+    "price": 149.99,
+    "image_url": "https://example.com/bongo_drums.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Conga Set",
+    "description": "Set of conga drums with sturdy construction and professional sound.",
+    "price": 599.99,
+    "image_url": "https://example.com/conga_set.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Tambourine",
+    "description": "Classic tambourine with jingles for adding rhythmic accents to your music.",
+    "price": 19.99,
+    "image_url": "https://example.com/tambourine.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Cajon",
+    "description": "Versatile cajon drum with adjustable snare wires and rich bass tones.",
+    "price": 249.99,
+    "image_url": "https://example.com/cajon.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Djembe",
+    "description": "Handcrafted djembe drum with traditional African design and authentic sound.",
+    "price": 199.99,
+    "image_url": "https://example.com/djembe.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Steel Tongue Drum",
+    "description": "Melodic steel tongue drum with a soothing sound and easy playability.",
+    "price": 129.99,
+    "image_url": "https://example.com/steel_tongue_drum.jpg",
+    "category": "drums",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Shure SM58 Dynamic Vocal Microphone",
+    "description": "The legendary Shure SM58 is a dynamic microphone renowned for its durability and excellent sound quality. It's perfect for live vocals and performances.",
+    "price": 99.99,
+    "image_url": "https://example.com/images/sm58.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "AKG C414 XLII Condenser Microphone",
+    "description": "The AKG C414 XLII is a versatile large-diaphragm condenser microphone that delivers exceptional detail and clarity. It's suitable for studio recording and broadcasting.",
+    "price": 1099.99,
+    "image_url": "https://example.com/images/c414.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Sennheiser e835 Cardioid Dynamic Microphone",
+    "description": "The Sennheiser e835 is a cardioid dynamic microphone designed for vocals. It offers excellent feedback rejection and robust construction.",
+    "price": 89.99,
+    "image_url": "https://example.com/images/e835.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Audio-Technica AT2020 Condenser Microphone",
+    "description": "The Audio-Technica AT2020 is a side-address condenser microphone that provides exceptional performance for studio recording and podcasting.",
+    "price": 149.99,
+    "image_url": "https://example.com/images/at2020.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Rode NT1-A Condenser Microphone",
+    "description": "The Rode NT1-A is a professional-grade condenser microphone known for its low self-noise and wide dynamic range. It's ideal for recording vocals and acoustic instruments.",
+    "price": 229.99,
+    "image_url": "https://example.com/images/nt1a.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Shure SM57 Dynamic Instrument Microphone",
+    "description": "The Shure SM57 is a versatile dynamic microphone that excels at capturing instruments, including guitars, drums, and brass instruments.",
+    "price": 89.99,
+    "image_url": "https://example.com/images/sm57.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Neumann U87 Ai Condenser Microphone",
+    "description": "The Neumann U87 Ai is a classic large-diaphragm condenser microphone with a reputation for its warm and natural sound. It's widely used in professional studios.",
+    "price": 3499.99,
+    "image_url": "https://example.com/images/u87.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Shure Beta 58A Dynamic Vocal Microphone",
+    "description": "The Shure Beta 58A is a dynamic microphone designed for live vocals. It offers enhanced sensitivity and a tight supercardioid polar pattern.",
+    "price": 159.99,
+    "image_url": "https://example.com/images/beta58a.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "AKG P220 Large-Diaphragm Condenser Microphone",
+    "description": "The AKG P220 is a versatile large-diaphragm condenser microphone suitable for vocals, acoustic instruments, and overhead recording.",
+    "price": 199.99,
+    "image_url": "https://example.com/images/p220.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Shure SM7B Vocal Dynamic Microphone",
+    "description": "The Shure SM7B is a popular vocal dynamic microphone known for its smooth and warm sound reproduction. It's widely used in radio and broadcasting.",
+    "price": 399.99,
+    "image_url": "https://example.com/images/sm7b.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Rode NT5 Small-Diaphragm Condenser Microphone",
+    "description": "The Rode NT5 is a pair of compact small-diaphragm condenser microphones suitable for stereo recording and capturing detailed acoustic instruments.",
+    "price": 249.99,
+    "image_url": "https://example.com/images/nt5.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "AKG D5 Vocal Dynamic Microphone",
+    "description": "The AKG D5 is a dynamic microphone designed for live vocals. It provides clear and powerful sound reproduction with a supercardioid pickup pattern.",
+    "price": 99.99,
+    "image_url": "https://example.com/images/d5.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Audio-Technica AT875R Shotgun Microphone",
+    "description": "The Audio-Technica AT875R is a compact shotgun microphone suitable for video production, broadcasting, and outdoor recording.",
+    "price": 169.99,
+    "image_url": "https://example.com/images/at875r.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Rode NT2-A Multi-Pattern Condenser Microphone",
+    "description": "The Rode NT2-A is a versatile multi-pattern condenser microphone suitable for vocals, instruments, and overhead recording. It offers selectable polar patterns.",
+    "price": 399.99,
+    "image_url": "https://example.com/images/nt2a.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Shure SM58S Dynamic Vocal Microphone with Switch",
+    "description": "The Shure SM58S is a variant of the legendary SM58 with an added on/off switch. It provides the same great sound quality and durability for live vocals.",
+    "price": 109.99,
+    "image_url": "https://example.com/images/sm58s.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "AKG C451 B Small-Diaphragm Condenser Microphone",
+    "description": "The AKG C451 B is a small-diaphragm condenser microphone known for its precise sound reproduction and ability to handle high sound pressure levels.",
+    "price": 499.99,
+    "image_url": "https://example.com/images/c451b.jpg",
+    "category": "microphones",
+    "subCategory": "music-instruments"
+  },
+  {
+    "title": "Classic Black Pumps",
+    "description": "Elegant and timeless, these classic black pumps are a must-have in every woman's shoe collection.",
+    "price": 59.99,
+    "image": "https://example.com/images/classic_black_pumps.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Slip-On Sneakers",
+    "description": "Comfortable and stylish, these slip-on sneakers are perfect for everyday wear.",
+    "price": 39.99,
+    "image": "https://example.com/images/casual_slip_on_sneakers.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Ankle Strap Sandals",
+    "description": "Get ready for summer with these trendy ankle strap sandals. Perfect for beach outings or evening strolls.",
+    "price": 49.99,
+    "image": "https://example.com/images/ankle_strap_sandals.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Stylish Chelsea Boots",
+    "description": "These fashionable Chelsea boots are a versatile choice for both casual and dressy occasions.",
+    "price": 79.99,
+    "image": "https://example.com/images/stylish_chelsea_boots.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Athletic Running Shoes",
+    "description": "Designed for performance, these athletic running shoes provide excellent comfort and support during workouts.",
+    "price": 89.99,
+    "image": "https://example.com/images/athletic_running_shoes.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Classic Leather Loafers",
+    "description": "These classic leather loafers offer a sophisticated and polished look for any occasion.",
+    "price": 69.99,
+    "image": "https://example.com/images/classic_leather_loafers.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Peep Toe High Heels",
+    "description": "Make a statement with these peep toe high heels. Perfect for special events or a night out on the town.",
+    "price": 79.99,
+    "image": "https://example.com/images/peep_toe_high_heels.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Espadrille Wedges",
+    "description": "Step into summer with these stylish espadrille wedges. The perfect blend of comfort and fashion.",
+    "price": 59.99,
+    "image": "https://example.com/images/espadrille_wedges.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Chunky Heel Booties",
+    "description": "Stay on-trend with these chic and versatile chunky heel booties. Pair them with jeans or a dress for a fashionable look.",
+    "price": 89.99,
+    "image": "https://example.com/images/chunky_heel_booties.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Slip-On Ballet Flats",
+    "description": "Classic and comfortable, these slip-on ballet flats are a wardrobe essential for every woman.",
+    "price": 49.99,
+    "image": "https://example.com/images/slip_on_ballet_flats.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Strappy Block Heels",
+    "description": "Add a touch of elegance to your outfit with these strappy block heels. Perfect for both formal and casual occasions.",
+    "price": 69.99,
+    "image": "https://example.com/images/strappy_block_heels.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Lace-Up Sneakers",
+    "description": "Stay trendy with these lace-up sneakers. Perfect for a sporty and fashionable look.",
+    "price": 59.99,
+    "image": "https://example.com/images/lace_up_sneakers.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Knee-High Riding Boots",
+    "description": "These knee-high riding boots are a timeless addition to any wardrobe. Perfect for both casual and equestrian-inspired looks.",
+    "price": 99.99,
+    "image": "https://example.com/images/knee_high_riding_boots.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Pointed Toe Flats",
+    "description": "Stay comfortable and stylish with these pointed toe flats. The perfect blend of sophistication and comfort.",
+    "price": 49.99,
+    "image": "https://example.com/images/pointed_toe_flats.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Stiletto Heel Sandals",
+    "description": "Make a statement with these stunning stiletto heel sandals. Perfect for a night out or a special occasion.",
+    "price": 89.99,
+    "image": "https://example.com/images/stiletto_heel_sandals.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Platform Sneakers",
+    "description": "Add a trendy twist to your sneaker collection with these platform sneakers. Elevate your style with extra height.",
+    "price": 69.99,
+    "image": "https://example.com/images/platform_sneakers.jpg",
+    "category": "woman",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Cute Sneakers",
+    "description": "These adorable sneakers are perfect for kids who love style and comfort. Available in multiple colors.",
+    "price": 29.99,
+    "image": "https://example.com/images/cute-sneakers.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Sporty Sandals",
+    "description": "These sporty sandals are great for active kids. They provide excellent support and have adjustable straps for a perfect fit.",
+    "price": 24.99,
+    "image": "https://example.com/images/sporty-sandals.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Flats",
+    "description": "These comfortable flats are perfect for everyday wear. They are lightweight and have a cushioned insole.",
+    "price": 19.99,
+    "image": "https://example.com/images/casual-flats.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Glossy Mary Janes",
+    "description": "These glossy Mary Janes are perfect for special occasions. They have a shiny finish and a sturdy sole.",
+    "price": 34.99,
+    "image": "https://example.com/images/glossy-mary-janes.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Fashionable Boots",
+    "description": "These fashionable boots are a must-have for stylish kids. They feature a trendy design and a durable construction.",
+    "price": 39.99,
+    "image": "https://example.com/images/fashionable-boots.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Comfy Slip-Ons",
+    "description": "These slip-ons are perfect for kids who want an easy-to-wear shoe. They have a soft lining and a flexible sole.",
+    "price": 21.99,
+    "image": "https://example.com/images/comfy-slip-ons.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Stylish Loafers",
+    "description": "These stylish loafers are great for both casual and formal occasions. They are made of high-quality materials.",
+    "price": 29.99,
+    "image": "https://example.com/images/stylish-loafers.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Elegant Pumps",
+    "description": "These elegant pumps are perfect for dressy events. They have a classic design and a comfortable heel height.",
+    "price": 49.99,
+    "image": "https://example.com/images/elegant-pumps.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Sporty Trainers",
+    "description": "These sporty trainers are ideal for active kids. They provide excellent support and have a breathable upper.",
+    "price": 39.99,
+    "image": "https://example.com/images/sporty-trainers.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Sneakers",
+    "description": "These casual sneakers are perfect for everyday wear. They have a versatile design and a durable outsole.",
+    "price": 27.99,
+    "image": "https://example.com/images/casual-sneakers.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Sturdy Sandals",
+    "description": "These sturdy sandals are great for outdoor adventures. They have a rugged sole and adjustable straps.",
+    "price": 31.99,
+    "image": "https://example.com/images/sturdy-sandals.jpg",
+    "category": "kids",
+
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Sparkly Flats",
+    "description": "These sparkly flats are perfect for parties and special occasions. They have a glittery design and a comfortable fit.",
+    "price": 26.99,
+    "image": "https://example.com/images/sparkly-flats.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Classic Oxfords",
+    "description": "These classic oxfords are a timeless choice. They have a polished look and a sturdy construction.",
+    "price": 44.99,
+    "image": "https://example.com/images/classic-oxfords.jpg",
+    "category": "kids",
+
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Cozy Slippers",
+    "description": "These cozy slippers are perfect for relaxing at home. They have a plush lining and a nonslip sole.",
+    "price": 16.99,
+    "image": "https://example.com/images/cozy-slippers.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Trendy Mules",
+    "description": "These trendy mules are a fashionable choice. They have a chic design and a comfortable block heel.",
+    "price": 36.99,
+    "image": "https://example.com/images/trendy-mules.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Formal Heels",
+    "description": "These formal heels are perfect for special events. They have an elegant design and a cushioned footbed.",
+    "price": 54.99,
+    "image": "https://example.com/images/formal-heels.jpg",
+    "category": "kids",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Classic Oxford Shoes",
+    "description": "Timeless and versatile, these classic Oxford shoes are a staple in any man's wardrobe. They are crafted from high-quality leather and feature a lace-up closure.",
+    "price": 79.99,
+    "image": "https://example.com/images/classic-oxford-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Sneakers",
+    "description": "These casual sneakers are perfect for everyday wear. They have a comfortable fit and a stylish design that pairs well with jeans or shorts.",
+    "price": 49.99,
+    "image": "https://example.com/images/casual-sneakers.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Athletic Running Shoes",
+    "description": "Designed for running enthusiasts, these athletic shoes provide excellent cushioning and support. They have a lightweight construction and a breathable upper.",
+    "price": 89.99,
+    "image": "https://example.com/images/athletic-running-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Formal Dress Shoes",
+    "description": "These formal dress shoes are perfect for special occasions or business attire. They are made of genuine leather and feature a polished finish.",
+    "price": 109.99,
+    "image": "https://example.com/images/formal-dress-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Comfortable Loafers",
+    "description": "These comfortable loafers are ideal for both casual and semi-formal occasions. They have a slip-on design and a cushioned insole.",
+    "price": 69.99,
+    "image": "https://example.com/images/comfortable-loafers.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Stylish Boots",
+    "description": "These stylish boots are perfect for adding a rugged touch to your outfits. They are made of durable leather and have a sturdy sole.",
+    "price": 129.99,
+    "image": "https://example.com/images/stylish-boots.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Slip-Ons",
+    "description": "These casual slip-on shoes are great for relaxed days. They have a convenient slip-on design and a comfortable fit.",
+    "price": 59.99,
+    "image": "https://example.com/images/casual-slip-ons.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Suede Desert Boots",
+    "description": "These suede desert boots are a stylish choice for casual outings. They have a soft suede upper and a crepe sole.",
+    "price": 89.99,
+    "image": "https://example.com/images/suede-desert-boots.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Sporty Training Shoes",
+    "description": "Ideal for workouts and training sessions, these sporty shoes offer excellent support and stability. They have a breathable mesh upper and a cushioned sole.",
+    "price": 79.99,
+    "image": "https://example.com/images/sporty-training-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Classic Penny Loafers",
+    "description": "These classic penny loafers are a timeless choice. They feature a traditional silhouette and a comfortable slip-on design.",
+    "price": 89.99,
+    "image": "https://example.com/images/classic-penny-loafers.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Smart Casual Brogues",
+    "description": "These smart casual brogues are perfect for adding a touch of sophistication to your outfits. They feature decorative perforations and a lace-up closure.",
+    "price": 99.99,
+    "image": "https://example.com/images/smart-casual-brogues.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Fashionable Sneakers",
+    "description": "These fashionable sneakers combine style and comfort. They have a trendy design with unique patterns and textures.",
+    "price": 79.99,
+    "image": "https://example.com/images/fashionable-sneakers.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Outdoor Hiking Boots",
+    "description": "Designed for outdoor adventures, these hiking boots offer excellent traction and durability. They have a waterproof construction and ankle support.",
+    "price": 149.99,
+    "image": "https://example.com/images/outdoor-hiking-boots.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Casual Canvas Shoes",
+    "description": "These casual canvas shoes are perfect for relaxed days. They have a lightweight design and a comfortable canvas upper.",
+    "price": 39.99,
+    "image": "https://example.com/images/casual-canvas-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Classic Boat Shoes",
+    "description": "These classic boat shoes are a versatile choice for casual outings. They have a slip-resistant sole and a traditional boat shoe design.",
+    "price": 79.99,
+    "image": "https://example.com/images/classic-boat-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  },
+  {
+    "title": "Slip-Resistant Work Shoes",
+    "description": "These slip-resistant work shoes are perfect for demanding work environments. They have a protective toe cap and a slip-resistant outsole.",
+    "price": 119.99,
+    "image": "https://example.com/images/slip-resistant-work-shoes.jpg",
+    "category": "men's",
+    "subCategory": "shoes"
+  }
+]

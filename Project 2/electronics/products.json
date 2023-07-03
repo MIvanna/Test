@@ -1,0 +1,352 @@
+[
+  {
+    "id": 1,
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "storage",
+    "image": "https://m.media-amazon.com/images/I/71J4Q8zM72L.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+
+  {
+    "id": 2,
+    "title": "Apple iPhone 12 Pro 256GB - Pacific Blue",
+    "price": 1099,
+    "description": "5G capable with A14 Bionic chip and Neural Engine Pro camera system with 12MP Ultra Wide, Wide, and Telephoto cameras; Night mode, Deep Fusion, and Smart HDR 3 6.1-inch Super Retina XDR display Ceramic Shield with 4x better drop performance",
+    "category": "device",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-iphone-12-pro-blue-2020?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1635202834000",
+    "rating": {
+      "rate": 4.8,
+      "count": 1265
+    }
+  },
+
+  {
+    "id": 3,
+    "title": "Samsung 65-inch QLED 4K Ultra HD Smart TV",
+    "price": 1499,
+    "description": "Quantum Dot technology brings cinematic color to life. Quantum HDR 32X delivers incredibly deep blacks and bright whites. Object Tracking Sound+ provides a truly immersive audio experience. Smart TV powered by Tizen for accessing your favorite streaming apps.",
+    "category": "screen",
+    "image": "https://m.media-amazon.com/images/I/81o9aPkrEHL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 789
+    }
+  },
+
+  {
+    "id": 4,
+    "title": "Sony WH-1000XM4 Wireless Noise-Canceling Headphones",
+    "price": 349,
+    "description": "Industry-leading noise cancellation technology. Bluetooth connectivity for wireless convenience. Dual noise sensor technology captures ambient sound. Up to 30 hours of battery life. Touch sensor controls for easy operation.",
+    "category": "sound",
+    "image": "https://m.media-amazon.com/images/I/51SKmu2G9FL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 211
+    }
+  },
+
+  {
+    "id": 5,
+    "title": "DJI Mavic Air 2 - Drone Quadcopter UAV with 48MP Camera",
+    "price": 799,
+    "description": "Capture impressive 48MP photos and 4K videos. OcuSync 2.0 for long-range transmission. Intelligent tracking and obstacle sensing. Up to 34 minutes of flight time. Foldable and portable design.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/51eae+6sQoL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 621
+    }
+  },
+
+  {
+    "id": 6,
+    "title": "Logitech MX Master 3 Wireless Mouse",
+    "price": 99,
+    "description": "Advanced ergonomic design for comfortable use. Ultrafast MagSpeed scrolling. App-specific customizations. Flow cross-computer control. Fast rechargeable battery.",
+    "category": "mouse_keyboard",
+    "image": "https://m.media-amazon.com/images/I/71zp7CMBb0L._AC_SY679_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 872
+    }
+  },
+
+  {
+    "id": 7,
+    "title": "Canon EOS 5D Mark IV DSLR Camera Body",
+    "price": 2499,
+    "description": "30.4 Megapixel full-frame CMOS sensor. DIGIC 6+ image processor for fast and accurate processing. 4K video recording capability. Dual Pixel CMOS AF for smooth and precise autofocus. Built-in Wi-Fi and NFC for easy sharing and remote control.",
+    "category": "camera",
+    "image": "https://m.media-amazon.com/images/I/81mOtWCy5tL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 356
+    }
+  },
+  {
+    "id": 8,
+    "title": "Bose QuietComfort 35 II Wireless Bluetooth Headphones",
+    "price": 299,
+    "description": "Acclaimed noise-canceling technology. Alexa and Google Assistant enabled. Hassle-free Bluetooth pairing. Balanced sound performance. Up to 20 hours of battery life.",
+    "category": "sound",
+    "image": "https://m.media-amazon.com/images/I/81+jNVOUsJL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 1052
+    }
+  },
+
+  {
+    "id": 9,
+    "title": "Samsung Galaxy Tab S7+ 12.4-inch Tablet",
+    "price": 849,
+    "description": "12.4-inch Super AMOLED display for stunning visuals. S Pen included for precise control. Snapdragon 865+ processor for fast performance. Quad speakers tuned by AKG for immersive audio. Up to 14 hours of battery life.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/91pjZAMbEUS._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 432
+    }
+  },
+
+  {
+    "id": 10,
+    "title": "Sony PlayStation 5 Console",
+    "price": 499,
+    "description": "Ultra-high-speed SSD for fast loading times. Ray tracing technology for realistic graphics. 4K gaming and 8K support. Tempest 3D AudioTech for immersive sound. DualSense wireless controller for enhanced haptic feedback.",
+    "category": "console",
+    "image": "https://media.direct.playstation.com/is/image/sierialto/PS5-front-with-dualsense?$Background_Large$",
+    "rating": {
+      "rate": 4.9,
+      "count": 1890
+    }
+  },
+  {
+    "id": 11,
+    "title": "LG 34-inch Ultrawide QHD Curved Monitor",
+    "price": 699,
+    "description": "34-inch QHD curved display for immersive viewing. HDR10 for vibrant colors and detailed contrast. AMD FreeSync technology for smooth gameplay. On-screen control for easy customization. Height and tilt adjustable stand.",
+    "category": "screen",
+    "image": "https://m.media-amazon.com/images/I/71xUGwGReSL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 527
+    }
+  },
+  {
+    "id": 12,
+    "title": "Amazon Echo (4th Generation) Smart Speaker",
+    "price": 99,
+    "description": "Premium sound with built-in Zigbee hub. Alexa voice assistant for hands-free control. Stream music, make calls, and set alarms. Voice control compatible smart home devices. Privacy controls for added security.",
+    "category": "sound",
+    "image": "https://i.pcmag.com/imagery/reviews/00EU3U5rRoe9swRlkJE2yDa-1.fit_scale.size_1028x578.v1601052236.jpg",
+    "rating": {
+      "rate": 4.6,
+      "count": 912
+    }
+  },
+
+  {
+    "id": 13,
+    "title": "Microsoft Surface Pro 7 12.3-inch Tablet",
+    "price": 899,
+    "description": "12.3-inch PixelSense display with touchscreen. Intel Core i5 processor for fast performance. 8GB RAM and 128GB SSD storage. Windows 10 Home operating system. Up to 10.5 hours of battery life.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/71kBlSKi3eL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.5,
+      "count": 639
+    }
+  },
+
+  {
+    "id": 14,
+    "title": "Nintendo Switch Handheld Gaming Console",
+    "price": 299,
+    "description": "Compact and lightweight design for on-the-go gaming. 5.5-inch touchscreen display. Built-in controls and compatible with Joy-Con controllers. Compatible with a wide range of Nintendo Switch games. Up to 7 hours of battery life.",
+    "category": "console",
+    "image": "https://m.media-amazon.com/images/I/71tafO9HSrL._SX522_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 1074
+    }
+  },
+
+  {
+    "id": 15,
+    "title": "GoPro HERO9 Black - Waterproof Action Camera",
+    "price": 449,
+    "description": "5K video and 20MP photos for stunning visuals. HyperSmooth 3.0 for smooth and stable footage. Built-in mounting for easy attachment. TimeWarp 3.0 for capturing time-lapse videos. Waterproof up to 33 feet without a housing.",
+    "category": "camera",
+    "image": "https://m.media-amazon.com/images/I/518PGIaxCPL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 801
+    }
+  },
+  {
+    "id": 16,
+    "title": "Apple MacBook Pro 16-inch with M1 Pro Chip",
+    "price": 2399,
+    "description": "16-inch Retina display with True Tone technology. Apple M1 Pro chip for powerful performance. 10-core CPU and 16-core GPU. 16GB unified memory and 512GB SSD storage. macOS Monterey for seamless user experience.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/61Y30DpqRVL._AC_SX522_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 620
+    }
+  },
+  {
+    "id": 17,
+    "title": "Samsung Galaxy S21 Ultra 5G - Phantom Black",
+    "price": 1199,
+    "description": "6.8-inch Dynamic AMOLED 2X display. Quad camera system with 108MP main sensor. 100x Space Zoom for detailed shots. 5G connectivity for fast data speeds. S Pen support for enhanced productivity.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/71VeQ9PzOSL.__AC_SX300_SY300_QL70_ML2_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 982
+    }
+  },
+  {
+    "id": 18,
+    "title": "Canon EOS Rebel T8i EF-S 18-55mm is STM Lens Kit, Black",
+    "price": 999,
+    "description": "24 1 Megapixel CMOS (APS-C) sensor with is 100–6400 (H: 12800) Built-in Wi-Fi and NFC technology 9-Point AF system and AI Servo AF Optical Viewfinder with approx 95percent viewing coverage Use the EOS Utility Webcam Software (Mac and Windows) to turn your compatible Canon camera into a high-quality webcam",
+    "category": "camera",
+    "image": "https://m.media-amazon.com/images/I/81AUQk0y5vL.__AC_SY300_SX300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 413
+    }
+  },
+  {
+    "id": 19,
+    "title": "Logitech G502 HERO High-Performance Gaming Mouse",
+    "price": 79,
+    "description": "Advanced optical sensor for precise tracking. 11 programmable buttons for customizable controls. Adjustable weight system for personalized comfort. Lightsync RGB lighting for immersive gaming experience. Onboard memory for saving settings.",
+    "category": "mouse_keyboard",
+    "image": "https://m.media-amazon.com/images/I/4189N8RLVYL._SX300_SY300_QL70_FMwebp_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 652
+    }
+  },
+  {
+    "id": 20,
+    "title": "Samsung 55-inch QLED 4K Ultra HD Smart TV",
+    "price": 1299,
+    "description": "Quantum Dot technology for vibrant colors. Quantum HDR 12X for enhanced contrast. Dual LED backlighting for precise lighting control. Smart TV powered by Tizen for accessing streaming apps. Multiple voice assistant support.",
+    "category": "screen",
+    "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/qe55q60aauxxu/gallery/uk-qled-q60a-377311-qe55q60aauxxu-409038187?$1300_1038_PNG$",
+    "rating": {
+      "rate": 4.6,
+      "count": 422
+    }
+  },
+  {
+    "id": 21,
+    "title": "Bose SoundLink Revolve+ Portable Bluetooth Speaker",
+    "price": 299,
+    "description": "360-degree sound for consistent coverage. Portable and durable design. Up to 16 hours of battery life. Water-resistant for outdoor use. Built-in speakerphone for hands-free calls.",
+    "category": "sound",
+    "image": "https://m.media-amazon.com/images/I/71eJQYXTVxL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 765
+    }
+  },
+
+  {
+    "id": 22,
+    "title": "Apple iPad Air 10.9-inch (4th Generation)",
+    "price": 599,
+    "description": "10.9-inch Liquid Retina display with True Tone. A14 Bionic chip with Neural Engine. Touch ID for secure authentication. Compatible with Apple Pencil and Magic Keyboard. USB-C connector for fast data transfer.",
+    "category": "device",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/refurb-ipad-air-wifi-blue-2021?wid=572&hei=572&fmt=jpeg&qlt=95&.v=1644268548984",
+    "rating": {
+      "rate": 4.8,
+      "count": 598
+    }
+  },
+
+  {
+    "id": 23,
+    "title": "Sony A7 III Mirrorless Camera with 28-70mm Lens",
+    "price": 1999,
+    "description": "24.2MP full-frame Exmor R CMOS sensor. BIONZ X image processing engine. 5-axis in-body image stabilization. 4K HDR video recording. Fast hybrid AF with 693 phase-detection points.",
+    "category": "camera",
+    "image": "https://m.media-amazon.com/images/I/71gbqRvIpyL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.9,
+      "count": 328
+    }
+  },
+  {
+    "id": 24,
+    "title": "Fitbit Versa 3 Smartwatch",
+    "price": 229,
+    "description": "Built-in GPS for accurate tracking. Active Zone Minutes for personalized guidance. Sleep tracking and score for better sleep quality. Voice assistant and music control. Swimproof design for water activities.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/71s-OXhQNDL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 786
+    }
+  },
+  {
+    "id": 25,
+    "title": "Dell XPS 13 (2021) Laptop",
+    "price": 1299,
+    "description": "13.3-inch InfinityEdge display with 4K resolution. 11th Gen Intel Core processor for powerful performance. 16GB RAM and 512GB SSD storage. Thunderbolt 4 for fast data transfer. Backlit keyboard for comfortable typing.",
+    "category": "device",
+    "image": "https://m.media-amazon.com/images/I/91MXLpouhoL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 485
+    }
+  },
+  {
+    "id": 26,
+    "title": "JBL Charge 4 Portable Bluetooth Speaker",
+    "price": 149,
+    "description": "Powerful stereo sound and deep bass. 7500mAh rechargeable battery for up to 20 hours of playtime. IPX7 waterproof design. Connect multiple speakers for a bigger sound. USB port for charging your devices.",
+    "category": "sound",
+    "image": "https://m.media-amazon.com/images/I/71HkDZcXQpL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 957
+    }
+  },
+  {
+    "id": 27,
+    "title": "Sonos Beam Compact Smart Soundbar",
+    "price": 399,
+    "description": "Compact design for small to medium-sized rooms. Speech enhancement for clearer dialogue. Amazon Alexa built-in for voice control. AirPlay 2 support for streaming from Apple devices. HDMI ARC for easy setup.",
+    "category": "sound",
+    "image": "https://m.media-amazon.com/images/I/61UHCNuU-bL._AC_SX466_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 556
+    }
+  },
+
+  {
+    "id": 28,
+    "title": "Razer Huntsman Elite Mechanical Gaming Keyboard",
+    "price": 199,
+    "description": "Razer Opto-Mechanical switches for fast response. Chroma RGB lighting for customizable aesthetics. Magnetic wrist rest for comfortable gaming. Programmable macros for personalized commands. Onboard storage for saving settings.",
+    "category": "mouse_keyboard",
+    "image": "https://m.media-amazon.com/images/I/714BVcFAjWL._AC_SX679_.jpg",
+    "rating": {
+      "rate": 4.8,
+      "count": 721
+    }
+  }
+]
